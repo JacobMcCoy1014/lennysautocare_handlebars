@@ -1,0 +1,224 @@
+#topnav{
+    color:red;
+    text-align:center;
+    padding: 2px;
+    text-decoration:none;
+    font-size:20px;
+    border:1px solid white;
+    margin:auto;
+    width:500px;
+    background-image:url("https://cdn.shopify.com/s/files/1/0101/4765/9827/files/menu_banner_bg.jpg?v=1636704522");
+}
+
+h1{
+    text-align:center;
+    
+}
+
+body{
+    background-image:url("https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?cs=srgb&dl=pexels-scott-webb-3255761.jpg&fm=jpg");
+}
+
+.logoimage{
+    width:150px;
+    border-radius:25px;
+    padding:20px 10px 0px 10px;
+}
+
+.images{
+    border-radius:25px;
+}
+
+#contactlink{
+    color:white;
+}
+#contactlink:hover{
+    color: purple;
+    text-decoration: underline;
+}
+
+#topheader{
+    background-image:url("https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?cs=srgb&dl=pexels-scott-webb-3255761.jpg&fm=jpg");
+    color:black;
+    margin:auto;
+    padding:25px;
+    width:100%;
+    font-family:cursive;
+    text-align:center;
+}
+
+#topofpage{
+    background-color:inherit;
+    border-radius:100px;
+    padding:5px;
+    margin:auto;
+    width:700px;
+    font-size:25px;
+    color:white;
+}
+
+#topsectionimage{
+    
+    padding:10px 30px 10px 10px;
+    margin:auto;
+    border-radius:25px;
+    width:80%;
+}
+
+#middleimage{
+    float:left;
+    padding:60px 70px 50px 70px;
+    margin:auto;
+   
+}
+
+
+#mainhome{
+    text-align:center;
+    font-size:20px;
+    margin:auto;
+    padding:50px 50px 100px 50px;
+    border:2px;
+    color:white;
+    background-image:url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    border-radius:100px;
+    
+}
+
+#middlesection{
+   
+   border-radius:100px;
+   margin:auto;
+   width:80%;
+   
+  
+}
+
+#firstsection{
+   background-image:url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+   border-radius:100px;
+   margin:auto;
+   width:80%;
+   text-align:center;
+    font-size:20px;
+    padding:30px 30px 50px 30px;
+    color:white;
+    
+}
+
+#contactbutton{
+    border-radius:50px;
+    border:5px solid white;
+    width:150px;
+    height:75px;
+    margin:auto;
+    background-color:white;
+    padding:10px 10px 30px 10px;
+    
+}
+
+#aboutus{
+    text-decoration:underline overline;
+    text-decoration-style:dashed;
+    
+}
+
+#servicebutton{
+    text-align:center;
+    border-radius:300px;
+    border:5px solid white;
+    width:350px;
+    height:75px;
+    margin:auto;
+    background-color:white;
+    padding:20px;
+}
+
+#author{
+    text-align:center;
+    font-size:18px;
+    margin:auto;
+    padding:50px;
+    border:4px dashed black;
+    border-radius:100px;
+    width:500px;
+    background-color:white;
+}
+
+
+a:link{
+    color: Blue;
+    text-decoration: underline;
+}
+a:hover{
+    color: purple;
+    text-decoration: underline;
+    background-color:white;
+}
+
+
+#servicebanner{
+    width:100%;
+    padding:20px 60px 20px 70px;
+    margin:auto;
+}
+
+#servicepackages{
+    text-align:center;
+    border:2px solid red;
+    background-image:url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    width:90%;
+    margin:auto;
+    padding:50px;
+    color:white;
+}
+
+#form{
+    text-align:center;
+}
+
+#mainabout{
+     background-image:url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    border-radius:100px;
+    margin:auto;
+    width:70%;
+    text-align:center;
+    font-size:20px;
+    padding:60px;
+    font-weight: bold;
+    font-size:18px;
+    color:white;
+    font-family:Verdana;
+    
+}
+
+#contactmain{
+    text-align:center;
+    border:5px solid white;
+    background-image:url("https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    width:90%;
+    margin:auto;
+    padding:50px;
+    color:white;
+}
+
+#message-form{
+    text-align:center;
+}
+
+#packagetitle{
+    font-size:25px;
+}
+
+#basic-image{
+    height:200px;
+    width:250px;
+}
+#premium-image{
+    height:200px;
+    width:250px;
+}
+
+#topback{
+    background-image:url("https://cdn.pixabay.com/photo/2016/04/04/12/43/texture-1306790_960_720.jpg");
+}
